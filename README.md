@@ -2,7 +2,6 @@
    Bytebank
 </h1>
 
-<br>
 
 ## ✨ Tecnologia
 
